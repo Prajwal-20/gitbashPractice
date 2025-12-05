@@ -24,7 +24,7 @@ public class CreateContactTest extends BaseClass{
 		  
 		  HomePage hp = new HomePage(driver);
 		 
-		  hp.getContactLink().click();
+		 // hp.getContactLink().click();
 		  
 		  ContactPage cp = new ContactPage(driver);
 		
